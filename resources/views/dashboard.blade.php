@@ -14,4 +14,8 @@
             </div>
         </div>
     </div>
+
+
+    <div class="">HEllo world</div>
 </x-app-layout>
+
